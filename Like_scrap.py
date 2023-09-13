@@ -2,7 +2,7 @@
 ''''' Data Entry'''
 
 ### please enter the page name and give an address for saving data ####
-page_name = 'Aliazimiofficial'
+page_name = 'tavaana'
 path = '/Users/meisamghafary/Desktop/Squad/Scrap_instagram'
 num_posts = None
 
